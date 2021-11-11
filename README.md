@@ -1,3 +1,9 @@
+# Simple Signup and Login page
+Stacks used: react, html, css
+
+![image](https://user-images.githubusercontent.com/30587730/141264692-3aed5213-14cf-4ed6-9826-651157206233.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
